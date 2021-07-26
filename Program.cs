@@ -15,7 +15,7 @@ namespace nombre_magique
                 nb_user_str = Console.ReadLine();
                 try
                 {
-                    nb_user_int = int.Parse(nb_user_str); // On anticipe une saisie d'un caractère autre qu'un int
+                    nb_user_int = int.Parse(nb_user_str); // On anticipe une saisie d'un caractère autre qu'un int 
 
                     if (nb_user_int < min || nb_user_int > max)
                     {
