@@ -1,0 +1,16 @@
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.exe
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.deps.json
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.runtimeconfig.json
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.runtimeconfig.dev.json
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.dll
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\ref\nombre_magique.dll
+F:\Udemy\CSharp\nombre_magique\nombre_magique\bin\Debug\net5.0\nombre_magique.pdb
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.csproj.AssemblyReference.cache
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.AssemblyInfoInputs.cache
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.AssemblyInfo.cs
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.csproj.CoreCompileInputs.cache
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.dll
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\ref\nombre_magique.dll
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.pdb
+F:\Udemy\CSharp\nombre_magique\nombre_magique\obj\Debug\net5.0\nombre_magique.genruntimeconfig.cache
